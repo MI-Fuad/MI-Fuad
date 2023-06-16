@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ---
 
 ## 👨🏽‍💻 About Me:
-I am a Full Stack Web Developer from the UK.
+I am a Full Stack Web Developer based in the UK.
 - 🎓 Computer Science graduate with a MSc in Data Science and Analytics
 - 💻 Worked as a Junior Full Stack Java Developer at Wiley Edge 
 - ⚡ In my free time, I read tech articles, travel and take photos 
