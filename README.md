@@ -61,9 +61,6 @@ I am a Full Stack Web Developer from the UK.
   <img src= "icons/JS.svg" title="JS" alt="JS" width="50" height="50"/>&nbsp;
   <img src= "icons/html5.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
   <img src= "icons/css3.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
-  
-  
-
-  
+  <img src= "icons/intellij2.svg" title="IJ" alt="IJ" width="50" height="50"/>&nbsp;
 
 </div>
