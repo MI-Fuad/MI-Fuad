@@ -44,9 +44,15 @@ Here are some ideas to get you started:
 
 ---
 
-### 👨🏽‍💻 About Me :
+## 👨🏽‍💻 About Me:
 I am a Full Stack Web Developer from the UK.
 - 🎓 Computer Science graduate with a MSc in Data Science and analytics
 - 💻 Worked as Junior Full Stack Java Developer at Wiley Edge as a trainee
 - ⚡ In my free time, I read tech articles, travel and take photos 
 - 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudul-fakrul/)
+
+---
+## 🛠️ Languages and Tools:
+<div>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+</div>
