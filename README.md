@@ -54,5 +54,16 @@ I am a Full Stack Web Developer from the UK.
 ---
 ## 🛠️ Languages and Tools:
 <div>
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src= "icons/java.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src= "icons/spring.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
+  <img src= "icons/python.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src= "icons/r.svg" title="R" alt="R" width="50" height="50"/>&nbsp;
+  <img src= "icons/JS.svg" title="JS" alt="JS" width="50" height="50"/>&nbsp;
+  <img src= "icons/html5.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src= "icons/css3.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
+  
+  
+
+  
+
 </div>
