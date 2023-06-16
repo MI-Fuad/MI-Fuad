@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 ## 👨🏽‍💻 About Me:
 I am a Full Stack Web Developer from the UK.
-- 🎓 Computer Science graduate with a MSc in Data Science and analytics
-- 💻 Worked as Junior Full Stack Java Developer at Wiley Edge as a trainee
+- 🎓 Computer Science graduate with a MSc in Data Science and Analytics
+- 💻 Worked as a Junior Full Stack Java Developer at Wiley Edge 
 - ⚡ In my free time, I read tech articles, travel and take photos 
 - 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudul-fakrul/)
 
@@ -59,8 +59,11 @@ I am a Full Stack Web Developer from the UK.
   <img src= "icons/python.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src= "icons/r.svg" title="R" alt="R" width="50" height="50"/>&nbsp;
   <img src= "icons/JS.svg" title="JS" alt="JS" width="50" height="50"/>&nbsp;
-  <img src= "icons/html5.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src= "icons/css3.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src= "icons/intellij2.svg" title="IJ" alt="IJ" width="50" height="50"/>&nbsp;
+  <img src= "icons/html5.svg" title="HTML" alt="HTML" width="45" height="45"/>&nbsp;
+  <img src= "icons/css3.svg" title="CSS" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src= "icons/mysql.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src= "icons/intellij2.png" title="IJ" alt="IJ" width="55" height="55"/>&nbsp;
+  <img src= "icons/git.svg" title="GIT" alt="GIT" width="50" height="50"/>&nbsp;
+
 
 </div>
