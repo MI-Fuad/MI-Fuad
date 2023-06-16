@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 I am a Full Stack Web Developer based in the UK.
 - 🎓 Computer Science graduate with a MSc in Data Science and Analytics
 - 💻 Worked as a Junior Full Stack Java Developer at Wiley Edge 
-- ⚡ In my free time, I read tech articles, travel and take photos 
+- ⚡ In my free time I read tech articles, travel and take photos 
 - 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmudul-fakrul/)
 
 ---
